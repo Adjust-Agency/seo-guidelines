@@ -33,7 +33,7 @@
 
 ## While coding
 
-* A page __MUST__ contains ONLY ONE H1 tag
+* A page __MUST__ contains __ONLY ONE__ H1 tag
 * __No non-text content__ in H1 or Hx tag (use background image with hidden text if necessary)
 * Use structured Hx tags (No H3 without H2)
 * __Be semantic !__ ( lists in ul/ol, menu in nav, header in header, ... )
