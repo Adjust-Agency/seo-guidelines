@@ -28,7 +28,7 @@
 * Create appealing visuals to reduce bounce rate
 * Create appealing Call To Action (ex: badge, buttons) and A/B them
 * And __nope__, mobile design __still not__ optional here either
-* __Win fucking awards!__ and build awareness
+* __Win awards__ to build awareness
 * A/B Test your design for best UX experience
 
 ## While coding
