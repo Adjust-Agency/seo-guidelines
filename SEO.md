@@ -41,7 +41,7 @@
 * Always use crawlable content and make __judicious__ use of AJAX ( Google is deprecating AJAX Scheme technique in July 2018 [[6]])
 * Always use descriptive alt on images
 * Avoid single page content as much as possible. Or use Javascript URL routing if the need to build a single page __really makes sense__.
-* Keywords in URL MUST match page content
+* Keywords in __URL MUST__ match page content
 * Structure your page titles ( H1 -> Category -> Brand ). [[1]] [[2]]
 * Use keywords defined by the strategy in URLs, Meta title and H1
 * Use as much SVG pictures as possible (ex: icons, logos, ...)
