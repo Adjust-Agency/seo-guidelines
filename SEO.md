@@ -7,7 +7,7 @@
 * Start a page title with a keyword
 * Use keywords when writing your page description
 * Use Lexical field or related keywords in titles / page content (think of human language bots)
-* Use Page Title Qualificators or Long Tail Keywords [[3]][3] [[4]][4]
+* Use Page Title Qualificators or Long Tail Keywords [[3]] [[4]]
 * Page title around 10 words max
 * Page description should be 160 chars long
 * Quickly mention keywords in homepage content ( first 100 words )
@@ -15,14 +15,14 @@
 * Use a wide range of social networks ( Facebook, Instagram, Pinterest, Twitter ... )
 * Uniformize the brand on social networks (names, logo)...
 * ... but choose the right tone for the right network (Twitter: quick and wit, Facebook: gatherer, Instagram: beautiful and idealize, ...)
-* Use link intersect on competitor to find opportunities [[8]][8]
+* Use link intersect on competitor to find opportunities [[8]]
 * Plan outbound links to related external pages
-* Reflect on the eventuality of an AMP version [[5]][5]
+* Reflect on the eventuality of an AMP version [[5]]
 
 ## While designing
 
 * Mobile design is __not__ optional
-* Think about mobile first vs adaptive design and provide layouts accordingly [[7]][7]
+* Think about mobile first vs adaptive design and provide layouts accordingly [[7]]
 * Design mobile ui when creating desktop ui
 * Mobile design is __still not__ optional
 * Create appealing visuals to reduce bounce rate
@@ -38,14 +38,14 @@
 * Use structured Hx tags (No H3 without H2)
 * __Be semantic !__ ( lists in ul/ol, menu in nav, header in header, ... )
 * Minimize assets ( CSS and JS ). The fewer assets loaded the better (use [adjust gulpfile](https://github.com/Adjust-Agency/boilerplate-frontend)).
-* Always use crawlable content and make __judicious__ use of AJAX ( Google is deprecating AJAX Scheme technique in July 2018 [[6]][6])
+* Always use crawlable content and make __judicious__ use of AJAX ( Google is deprecating AJAX Scheme technique in July 2018 [[6]])
 * Always use descriptive alt on images
 * Avoid single page content as much as possible. Or use Javascript URL routing if the need to build a single page __really makes sense__.
 * Keywords in URL MUST match page content
-* Structure your page titles ( H1 -> Category -> Brand ). [[1]][1] [[2]][2]
+* Structure your page titles ( H1 -> Category -> Brand ). [[1]] [[2]]
 * Use keywords defined by the strategy in URLs, Meta title and H1
 * Use as much SVG pictures as possible (ex: icons, logos, ...)
-* Always compress bitmap images (no picture above 600kb) [[9]][9]
+* Always compress bitmap images (no picture above 600kb) [[9]]
 * Think about resolution management technique (ex:[picture element](https://developer.mozilla.org/en-US/docs/Web/HTML/Element/picture))
 * Never use meaningful or descriptive image as background (use IMG or PICTURE Tag with ALT attributes)
 * Pay attention to case sensitive files and urls
