@@ -3,10 +3,10 @@
 ## While building a strategy
 
 * Make Competitor, market and keywords research
-* Use Adwords Keyword Planner for Keyword research (in use them in website copy)
+* Use Adwords Keyword Planner for Keyword research (and use them in website copy)
 * Start a page title with a keyword
 * Use keywords when writing your page description
-* Use Lexical field or related keywords in titles / page content (think of human language bots)
+* Use Lexical Field or related keywords in titles / page content (think of human language bots)
 * Use Page Title Qualificators or Long Tail Keywords [[3]] [[4]]
 * Page title around 10 words max
 * Page description should be 160 chars long
