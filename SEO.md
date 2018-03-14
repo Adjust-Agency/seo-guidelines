@@ -2,7 +2,7 @@
 
 ## While building a strategy
 
-* Make Competitor, market and keywords research
+* Make competitor, market and keywords research
 * Use Adwords Keyword Planner for Keyword research (and use them in website copy)
 * Start a page title with a keyword
 * Use keywords when writing your page description
