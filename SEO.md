@@ -15,7 +15,7 @@
 * Use a wide range of social networks ( Facebook, Instagram, Pinterest, Twitter ... )
 * Uniformize the brand on social networks (names, logo)...
 * ... but choose the right tone for the right network (Twitter: quick and wit, Facebook: gatherer, Instagram: beautiful and idealize, ...)
-* Use link intersect on competitor to find opportunities [[8]]
+* Use link intersect on competitors to find opportunities [[8]]
 * Plan outbound links to related external pages
 * Reflect on the eventuality of an AMP version [[5]]
 
@@ -26,14 +26,14 @@
 * Design mobile ui when creating desktop ui
 * Mobile design is __still not__ optional
 * Create appealing visuals to reduce bounce rate
-* Create appealing Call To Action (ex: badge, buttons) and A/B them
+* Create appealing Call To Action (ex: badge, buttons) and A/B test them
 * And __nope__, mobile design __still not__ optional here either
 * __Win awards__ to build awareness
 * A/B Test your design for best UX experience
 
 ## While coding
 
-* A page __MUST__ contains __ONLY ONE__ H1 tag
+* A page __MUST__ contain __ONLY ONE__ H1 tag
 * __No non-text content__ in H1 or Hx tag (use background image with hidden text if necessary)
 * Use structured Hx tags (No H3 without H2)
 * __Be semantic !__ ( lists in ul/ol, menu in nav, header in header, ... )
@@ -41,7 +41,7 @@
 * Always use crawlable content and make __judicious__ use of AJAX ( Google is deprecating AJAX Scheme technique in July 2018 [[6]])
 * Always use descriptive alt on images
 * Avoid single page content as much as possible. Or use Javascript URL routing if the need to build a single page __really makes sense__.
-* Keywords in __URL MUST__ match page content
+* Keywords in URL __MUST__ match page content
 * Structure your page titles ( H1 -> Category -> Brand ). [[1]] [[2]]
 * Use keywords defined by the strategy in URLs, Meta title and H1
 * Use as much SVG pictures as possible (ex: icons, logos, ...)
